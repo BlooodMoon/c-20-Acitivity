@@ -1,1 +1,2 @@
-# c-20-Acitivity
+# C20_boilerplate
+boilerplate for teacher activity
